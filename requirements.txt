@@ -1,0 +1,4 @@
+lets-plot
+numpy
+pandas
+geopandas
