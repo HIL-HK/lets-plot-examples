@@ -3,5 +3,4 @@ numpy
 pandas
 geopandas
 sklearn
-pydata-google-auth
 google-cloud-bigquery
