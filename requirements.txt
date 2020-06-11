@@ -4,3 +4,4 @@ pandas
 geopandas
 sklearn
 google-cloud-bigquery
+selenium
