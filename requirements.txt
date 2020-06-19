@@ -5,3 +5,4 @@ geopandas
 sklearn
 google-cloud-bigquery
 selenium
+pillow
