@@ -1,4 +1,4 @@
-﻿lets-plot ~= 1.4
+﻿lets-plot == 1.4.2
 geopandas ~= 0.7
 google-cloud-bigquery ~= 1.24
 numpy ~= 1.18
