@@ -1,6 +1,7 @@
 ﻿lets-plot == 1.4.2
 geopandas ~= 0.7
 google-cloud-bigquery ~= 1.24
+networkx ~= 2.4
 numpy ~= 1.18
 pandas ~= 1.0
 pillow ~= 7.1
