@@ -13,5 +13,5 @@ dependencies:
   - pip
   - selenium=3.141.*
   - pip:
-    - lets-plot==1.4.2
+    - lets-plot==1.5.0
     - sklearn
