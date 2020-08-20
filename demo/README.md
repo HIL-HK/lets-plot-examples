@@ -8,4 +8,6 @@ Demo notebooks that do not fit other, more specialized, directories.
   <img src="https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.png" width="109" height="20" align="left">
 </a>
 
-<img src="preview/covid-19_and_mobility.png" alt="Combined Weekly Change of Mobility and CRI in North America" width="200" height="200">
+<div>
+  <img src="preview/covid-19_and_mobility.png" alt="Combined Weekly Change of Mobility and CRI in North America" width="400" height="400">
+</div>
