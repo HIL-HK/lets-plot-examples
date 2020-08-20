@@ -4,7 +4,7 @@ Demo notebooks with features that have not been implemented in Lets-Plot yet.
 
 ## Waffle Chart
 
-<a href="https://nbviewer.jupyter.org/github/HIL-HK/lets-plot-examples/blob/master/demo/geom_waffle.ipynb" target="_blank"> 
+<a href="https://nbviewer.jupyter.org/github/HIL-HK/lets-plot-examples/blob/master/plans/geom_waffle.ipynb" target="_blank"> 
   <img src="https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.png" width="109" height="20">
 </a>
 
@@ -12,7 +12,7 @@ Demo notebooks with features that have not been implemented in Lets-Plot yet.
 
 ## Exploring Minard's 1812 Plot with Lets-Plot
 
-<a href="https://nbviewer.jupyter.org/github/HIL-HK/lets-plot-examples/blob/master/demo/minard.ipynb" target="_blank"> 
+<a href="https://nbviewer.jupyter.org/github/HIL-HK/lets-plot-examples/blob/master/plans/minard.ipynb" target="_blank"> 
   <img src="https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.png" width="109" height="20">
 </a>
 

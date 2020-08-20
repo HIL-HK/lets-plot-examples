@@ -4,7 +4,7 @@ Simple demo notebooks to demonstrate some features of Lets-Plot.
 
 ## Bar
 
-<a href="https://nbviewer.jupyter.org/github/HIL-HK/lets-plot-examples/blob/master/demo/bar.ipynb" target="_blank"> 
+<a href="https://nbviewer.jupyter.org/github/HIL-HK/lets-plot-examples/blob/master/features/bar.ipynb" target="_blank"> 
   <img src="https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.png" width="109" height="20">
 </a>
 
@@ -12,7 +12,7 @@ Simple demo notebooks to demonstrate some features of Lets-Plot.
 
 ## Bar on Livemap
 
-<a href="https://nbviewer.jupyter.org/github/HIL-HK/lets-plot-examples/blob/master/demo/bar_on_livemap.ipynb" target="_blank"> 
+<a href="https://nbviewer.jupyter.org/github/HIL-HK/lets-plot-examples/blob/master/features/bar_on_livemap.ipynb" target="_blank"> 
   <img src="https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.png" width="109" height="20">
 </a>
 
@@ -20,7 +20,7 @@ Simple demo notebooks to demonstrate some features of Lets-Plot.
 
 ## GeoDataFrame on Plot
 
-<a href="https://nbviewer.jupyter.org/github/HIL-HK/lets-plot-examples/blob/master/demo/geopandas_GeoDataFrame.ipynb" target="_blank"> 
+<a href="https://nbviewer.jupyter.org/github/HIL-HK/lets-plot-examples/blob/master/features/geopandas_GeoDataFrame.ipynb" target="_blank"> 
   <img src="https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.png" width="109" height="20">
 </a>
 
@@ -28,7 +28,7 @@ Simple demo notebooks to demonstrate some features of Lets-Plot.
 
 ## Histogram
 
-<a href="https://nbviewer.jupyter.org/github/HIL-HK/lets-plot-examples/blob/master/demo/histogram.ipynb" target="_blank"> 
+<a href="https://nbviewer.jupyter.org/github/HIL-HK/lets-plot-examples/blob/master/features/histogram.ipynb" target="_blank"> 
   <img src="https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.png" width="109" height="20">
 </a>
 
@@ -36,7 +36,7 @@ Simple demo notebooks to demonstrate some features of Lets-Plot.
 
 ## Line Type and Point Shape
 
-<a href="https://nbviewer.jupyter.org/github/HIL-HK/lets-plot-examples/blob/master/demo/line_type_and_point_shape.ipynb" target="_blank"> 
+<a href="https://nbviewer.jupyter.org/github/HIL-HK/lets-plot-examples/blob/master/features/line_type_and_point_shape.ipynb" target="_blank"> 
   <img src="https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.png" width="109" height="20">
 </a>
 
@@ -44,7 +44,7 @@ Simple demo notebooks to demonstrate some features of Lets-Plot.
 
 ## geom_line() and geom_path()
 
-<a href="https://nbviewer.jupyter.org/github/HIL-HK/lets-plot-examples/blob/master/demo/line_vs_path.ipynb" target="_blank"> 
+<a href="https://nbviewer.jupyter.org/github/HIL-HK/lets-plot-examples/blob/master/features/line_vs_path.ipynb" target="_blank"> 
   <img src="https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.png" width="109" height="20">
 </a>
 
@@ -52,7 +52,7 @@ Simple demo notebooks to demonstrate some features of Lets-Plot.
 
 ## Points and Text on Livemap
 
-<a href="https://nbviewer.jupyter.org/github/HIL-HK/lets-plot-examples/blob/master/demo/point_and_text_on_livemap.ipynb" target="_blank"> 
+<a href="https://nbviewer.jupyter.org/github/HIL-HK/lets-plot-examples/blob/master/features/point_and_text_on_livemap.ipynb" target="_blank"> 
   <img src="https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.png" width="109" height="20">
 </a>
 
@@ -60,7 +60,7 @@ Simple demo notebooks to demonstrate some features of Lets-Plot.
 
 ## Straight Lines
 
-<a href="https://nbviewer.jupyter.org/github/HIL-HK/lets-plot-examples/blob/master/demo/straight_lines.ipynb" target="_blank"> 
+<a href="https://nbviewer.jupyter.org/github/HIL-HK/lets-plot-examples/blob/master/features/straight_lines.ipynb" target="_blank"> 
   <img src="https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.png" width="109" height="20">
 </a>
 
