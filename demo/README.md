@@ -5,7 +5,7 @@ Demo notebooks that do not fit other, more specialized, directories.
 ## Population mobility and COVID-19
 
 <a href="https://nbviewer.jupyter.org/github/HIL-HK/lets-plot-examples/blob/master/demo/covid-19_and_mobility.ipynb" target="_blank"> 
-  <img src="https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.png" width="109" height="20" align="left">
+  <img src="https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.png" width="109" height="20">
 </a>
 
 
@@ -17,7 +17,6 @@ Demo notebooks that do not fit other, more specialized, directories.
   <img src="https://mybinder.org/badge_logo.svg" alt="Binder">
 </a>
 
-
 <img src="preview/covid-19_by_country.png" alt="COVID-19 by Country" width="400" height="300">
 
 ## COVID-19 Statistics in China (except Hubei)
@@ -26,5 +25,12 @@ Demo notebooks that do not fit other, more specialized, directories.
   <img src="https://mybinder.org/badge_logo.svg" alt="Binder">
 </a>
 
+<img src="preview/covid-19_in_China_except_Hubei.png" alt="COVID-19 Statistics in China" width="400" height="400">
 
-<img src="preview/covid-19_in_China_except_Hubei.png" alt="COVID-19 by Country" width="400" height="300">
+## Inset Map of Kotlin Island
+
+<a href="https://nbviewer.jupyter.org/github/HIL-HK/lets-plot-examples/blob/master/demo/geopandas_kotlin_isl.ipynb" target="_blank"> 
+  <img src="https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.png" width="109" height="20">
+</a>
+
+<img src="preview/geopandas_kotlin_isl.png" alt="Tourist attractions on Kotlin island" width="400" height="300">
