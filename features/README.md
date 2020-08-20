@@ -12,8 +12,8 @@ Simple demo notebooks to demonstrate some features of Lets-Plot.
 
 ## Bar on Livemap
 
-<a href="https://nbviewer.jupyter.org/github/HIL-HK/lets-plot-examples/blob/master/features/bar_on_livemap.ipynb" target="_blank"> 
-  <img src="https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.png" width="109" height="20">
+<a href="https://mybinder.org/v2/gh/HIL-HK/lets-plot-examples/master?filepath=features%2Fbar_on_livemap.ipynb" target="_blank">
+  <img src="https://mybinder.org/badge_logo.svg" alt="Binder">
 </a>
 
 <img src="preview/bar_on_livemap.png" alt="Bar on Livemap" width="400" height="300">
