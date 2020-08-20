@@ -34,3 +34,49 @@ Demo notebooks that do not fit other, more specialized, directories.
 </a>
 
 <img src="preview/geopandas_kotlin_isl.png" alt="Tourist attractions on Kotlin island" width="400" height="300">
+
+## Google Suggestions
+
+<a href="https://nbviewer.jupyter.org/github/HIL-HK/lets-plot-examples/blob/master/demo/google_suggestions.ipynb" target="_blank"> 
+  <img src="https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.png" width="109" height="20">
+</a>
+
+<img src="preview/google_suggestions.png" alt="First Google Query Suggestion" width="400" height="300">
+
+## Internet use and activities in Europe
+
+<a href="https://nbviewer.jupyter.org/github/HIL-HK/lets-plot-examples/blob/master/demo/internet_use_and_activities.ipynb" target="_blank"> 
+  <img src="https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.png" width="109" height="20">
+</a>
+
+<img src="preview/internet_use_and_activities.png" alt="Internet use and activities in Europe" width="400" height="300">
+
+## Malnutrition in the World
+
+<a href="https://nbviewer.jupyter.org/github/HIL-HK/lets-plot-examples/blob/master/demo/malnutrition.ipynb" target="_blank"> 
+  <img src="https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.png" width="109" height="20">
+</a>
+
+<img src="preview/malnutrition.png" alt="Underweight in the World" width="400" height="300">
+
+## NYC Subway With BigQuery
+
+You should run [this notebook](nyc_metro.ipynb) on your local Jupyter server.
+
+<img src="preview/nyc_metro.png" alt="NYC Subway" width="400" height="300">
+
+## Saint-Petersburg Bakeries
+
+<a href="https://nbviewer.jupyter.org/github/HIL-HK/lets-plot-examples/blob/master/demo/spb_bakeries.ipynb" target="_blank"> 
+  <img src="https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.png" width="109" height="20">
+</a>
+
+<img src="preview/spb_bakeries.png" alt="Top 15 Bakery Chains in Saint Petersburg" width="400" height="300">
+
+## Minimalistic World Coloring
+
+<a href="https://nbviewer.jupyter.org/github/HIL-HK/lets-plot-examples/blob/master/demo/world_coloring.ipynb" target="_blank"> 
+  <img src="https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.png" width="109" height="20">
+</a>
+
+<img src="preview/world_coloring.png" alt="World Coloring" width="400" height="300">
