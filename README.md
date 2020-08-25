@@ -14,6 +14,12 @@ To activate the environment, use the `conda activate` command:
 conda activate lets-plot-examples
 ```
 
+If file `binder/environment.yml` has been changed, you need to update the environment. In that case, run:
+
+```bash
+conda env update --name lets-plot-examples --file binder/environment.yml
+```
+
 ### Examples
 
 Open the terminal, execute `jupyter notebook` or `jupyter lab` and navigate through the directories containing examples.
