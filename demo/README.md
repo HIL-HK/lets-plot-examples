@@ -1,6 +1,6 @@
 ﻿# General Demo
 
-Demo notebooks that do not fit other, more specialized, directories.
+The main directory with demo notebooks.
 
 ## Population mobility and COVID-19
 
@@ -57,6 +57,14 @@ Demo notebooks that do not fit other, more specialized, directories.
 </a>
 
 <img src="preview/malnutrition.png" alt="Underweight in the World" width="400" height="300">
+
+## Exploring Minard's 1812 Plot with Lets-Plot
+
+<a href="https://nbviewer.jupyter.org/github/HIL-HK/lets-plot-examples/blob/master/demo/minard.ipynb" target="_blank"> 
+  <img src="https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.png" width="109" height="20">
+</a>
+
+<img src="preview/minard.png" alt="Charles Minard's 1869 Chart" width="400" height="200">
 
 ## NYC Subway With BigQuery
 

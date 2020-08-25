@@ -3,17 +3,17 @@ channels:
   - conda-forge
 dependencies:
   - python=3.7
-  - geopandas=0.8.*
-  - google-cloud-bigquery=1.24.*
-  - jupyter=1.0.*
-  - jupyterlab=2.2.*
-  - networkx=2.4.*
-  - numpy=1.18.*
-  - overpy=0.4
-  - pandas=1.0.*
-  - pillow=7.1.*
+  - geopandas=0.*
+  - google-cloud-bigquery=1.*
+  - jupyter=1.*
+  - jupyterlab=2.*
+  - networkx=2.*
+  - numpy=1.*
+  - overpy=0.*
+  - pandas=1.*
+  - pillow=7.*
   - pip
-  - selenium=3.141.*
+  - selenium=3.*
   - pip:
-    - lets-plot==1.5.0
+    - lets-plot==1.5.2
     - sklearn
