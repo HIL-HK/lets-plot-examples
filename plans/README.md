@@ -2,6 +2,12 @@
 
 Demo notebooks with features that have not been implemented in Lets-Plot yet.
 
+## Cropped Image
+
+You should run [this notebook](geom_crop.ipynb) on your local Jupyter server.
+
+<img src="preview/geom_crop.png" alt="Nature in Europe" width="300" height="400">
+
 ## Waffle Chart
 
 <a href="https://nbviewer.jupyter.org/github/HIL-HK/lets-plot-examples/blob/master/plans/geom_waffle.ipynb" target="_blank"> 
