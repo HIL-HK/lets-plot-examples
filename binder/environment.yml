@@ -14,6 +14,7 @@ dependencies:
   - pillow=7.*
   - pip
   - selenium=3.*
+  - squarify=0.*
   - pip:
     - lets-plot==1.5.2
     - sklearn

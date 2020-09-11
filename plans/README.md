@@ -8,6 +8,14 @@ You should run [this notebook](geom_crop.ipynb) on your local Jupyter server.
 
 <img src="preview/geom_crop.png" alt="Nature in Europe" width="300" height="400">
 
+## Treemap
+
+<a href="https://nbviewer.jupyter.org/github/HIL-HK/lets-plot-examples/blob/master/plans/geom_treemap.ipynb" target="_blank"> 
+  <img src="https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.png" width="109" height="20">
+</a>
+
+<img src="preview/geom_treemap.png" alt="World Population" width="400" height="400">
+
 ## Waffle Chart
 
 <a href="https://nbviewer.jupyter.org/github/HIL-HK/lets-plot-examples/blob/master/plans/geom_waffle.ipynb" target="_blank"> 
