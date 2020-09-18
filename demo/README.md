@@ -66,6 +66,14 @@ The main directory with demo notebooks.
 
 <img src="preview/minard.png" alt="Charles Minard's 1869 Chart" width="400" height="200">
 
+## US Museums
+
+<a href="https://nbviewer.jupyter.org/github/HIL-HK/lets-plot-examples/blob/master/demo/museums.ipynb" target="_blank"> 
+  <img src="https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.png" width="109" height="20">
+</a>
+
+<img src="preview/museums.png" alt="Museums Income in Washington, D.C." width="400" height="300">
+
 ## NYC Subway With BigQuery
 
 You should run [this notebook](nyc_metro.ipynb) on your local Jupyter server.
