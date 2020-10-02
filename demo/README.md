@@ -26,6 +26,14 @@ The main directory with demo notebooks.
 
 <img src="preview/covid-19_in_China_except_Hubei.png" alt="COVID-19 Statistics in China" width="400" height="400">
 
+## Delhi Climate
+
+<a href="https://mybinder.org/v2/gh/HIL-HK/lets-plot-examples/master?filepath=demo%2Fdelhi_climate.ipynb" target="_blank">
+  <img src="https://mybinder.org/badge_logo.svg" alt="Binder">
+</a>
+
+<img src="preview/covid-delhi_climate.png" alt="Heatmap of Temperatures by Year" width="400" height="200">
+
 ## Inset Map of Kotlin Island
 
 <a href="https://nbviewer.jupyter.org/github/HIL-HK/lets-plot-examples/blob/master/demo/geopandas_kotlin_isl.ipynb" target="_blank"> 
