@@ -28,11 +28,11 @@ The main directory with demo notebooks.
 
 ## Delhi Climate
 
-<a href="https://mybinder.org/v2/gh/HIL-HK/lets-plot-examples/master?filepath=demo%2Fdelhi_climate.ipynb" target="_blank">
-  <img src="https://mybinder.org/badge_logo.svg" alt="Binder">
+<a href="https://nbviewer.jupyter.org/github/HIL-HK/lets-plot-examples/blob/master/demo/delhi_climate.ipynb" target="_blank"> 
+  <img src="https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.png" width="109" height="20">
 </a>
 
-<img src="preview/covid-delhi_climate.png" alt="Heatmap of Temperatures by Year" width="400" height="200">
+<img src="preview/delhi_climate.png" alt="Heatmap of Temperatures by Year" width="400" height="200">
 
 ## Inset Map of Kotlin Island
 
