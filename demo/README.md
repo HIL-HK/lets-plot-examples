@@ -42,6 +42,14 @@ The main directory with demo notebooks.
 
 <img src="preview/geopandas_kotlin_isl.png" alt="Tourist attractions on Kotlin island" width="400" height="300">
 
+## Google Play Store
+
+<a href="https://nbviewer.jupyter.org/github/HIL-HK/lets-plot-examples/blob/master/demo/google_play_store.ipynb" target="_blank"> 
+  <img src="https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.png" width="109" height="20">
+</a>
+
+<img src="preview/google_play_store.png" alt="Connection Between Installations and Reviews" width="400" height="300">
+
 ## Google Suggestions
 
 <a href="https://nbviewer.jupyter.org/github/HIL-HK/lets-plot-examples/blob/master/demo/google_suggestions.ipynb" target="_blank"> 
