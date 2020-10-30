@@ -2,6 +2,14 @@
 
 The main directory with demo notebooks.
 
+## How To Draw Curve Fast
+
+<a href="https://nbviewer.jupyter.org/github/HIL-HK/lets-plot-examples/blob/master/demo/contours.ipynb" target="_blank"> 
+  <img src="https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.png" width="109" height="20">
+</a>
+
+<img src="preview/contours.png" alt="Elliptic Curve by Raster" width="400" height="300">
+
 ## Population mobility and COVID-19
 
 <a href="https://nbviewer.jupyter.org/github/HIL-HK/lets-plot-examples/blob/master/demo/covid-19_and_mobility.ipynb" target="_blank"> 
