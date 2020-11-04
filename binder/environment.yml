@@ -17,5 +17,5 @@ dependencies:
   - selenium=3.*
   - squarify=0.*
   - pip:
-    - lets-plot==1.5.2
+    - lets-plot==1.5.3rc1
     - sklearn

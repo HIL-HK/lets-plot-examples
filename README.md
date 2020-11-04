@@ -17,7 +17,7 @@ conda activate lets-plot-examples
 If file `binder/environment.yml` has been changed, you need to update the environment. In that case, run:
 
 ```bash
-conda env update --name lets-plot-examples --file binder/environment.yml
+conda env update --name lets-plot-examples --file binder/environment.yml --prune
 ```
 
 ### Examples
