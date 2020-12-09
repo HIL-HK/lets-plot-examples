@@ -2,66 +2,54 @@
 
 Simple demo notebooks to demonstrate some features of Lets-Plot.
 
+All viewable or executable notebooks are available here:
+[<img alt="nbviewer" src="https://raw.githubusercontent.com/jupyter/design/dev/logos/Badges/nbviewer_badge.png" width="109" height="20">](https://nbviewer.jupyter.org/github/HIL-HK/lets-plot-examples/blob/dev/features/)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/HIL-HK/lets-plot-examples/dev?filepath=features)
+
 ## Bar
 
-<a href="https://nbviewer.jupyter.org/github/HIL-HK/lets-plot-examples/blob/master/features/bar.ipynb" target="_blank"> 
-  <img src="https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.png" width="109" height="20">
+<a href="bar.ipynb" target="_blank"> 
+  <img src="preview/bar.png" alt="Bar" width="400" height="300">
 </a>
-
-<img src="preview/bar.png" alt="Bar" width="400" height="300">
 
 ## Bar on Livemap
 
-<a href="https://mybinder.org/v2/gh/HIL-HK/lets-plot-examples/master?filepath=features%2Fbar_on_livemap.ipynb" target="_blank">
-  <img src="https://mybinder.org/badge_logo.svg" alt="Binder">
+<a href="bar_on_livemap.ipynb" target="_blank">
+  <img src="preview/bar_on_livemap.png" alt="Bar on Livemap" width="400" height="300">
 </a>
-
-<img src="preview/bar_on_livemap.png" alt="Bar on Livemap" width="400" height="300">
 
 ## GeoDataFrame on Plot
 
-<a href="https://nbviewer.jupyter.org/github/HIL-HK/lets-plot-examples/blob/master/features/geopandas_GeoDataFrame.ipynb" target="_blank"> 
-  <img src="https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.png" width="109" height="20">
+<a href="geopandas_GeoDataFrame.ipynb" target="_blank"> 
+  <img src="preview/geopandas_GeoDataFrame.png" alt="GeoDataFrame on Plot" width="400" height="300">
 </a>
-
-<img src="preview/geopandas_GeoDataFrame.png" alt="GeoDataFrame on Plot" width="400" height="300">
 
 ## Histogram
 
-<a href="https://nbviewer.jupyter.org/github/HIL-HK/lets-plot-examples/blob/master/features/histogram.ipynb" target="_blank"> 
-  <img src="https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.png" width="109" height="20">
+<a href="histogram.ipynb" target="_blank"> 
+  <img src="preview/histogram.png" alt="Histogram" width="400" height="300">
 </a>
-
-<img src="preview/histogram.png" alt="Histogram" width="400" height="300">
 
 ## Line Type and Point Shape
 
-<a href="https://nbviewer.jupyter.org/github/HIL-HK/lets-plot-examples/blob/master/features/line_type_and_point_shape.ipynb" target="_blank"> 
-  <img src="https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.png" width="109" height="20">
+<a href="line_type_and_point_shape.ipynb" target="_blank"> 
+  <img src="preview/line_type_and_point_shape.png" alt="Line Type and Point Shape" width="400" height="300">
 </a>
-
-<img src="preview/line_type_and_point_shape.png" alt="Line Type and Point Shape" width="400" height="300">
 
 ## geom_line() and geom_path()
 
-<a href="https://nbviewer.jupyter.org/github/HIL-HK/lets-plot-examples/blob/master/features/line_vs_path.ipynb" target="_blank"> 
-  <img src="https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.png" width="109" height="20">
+<a href="line_vs_path.ipynb" target="_blank"> 
+  <img src="preview/line_vs_path.png" alt="geom_line()" width="400" height="300">
 </a>
-
-<img src="preview/line_vs_path.png" alt="geom_line()" width="400" height="300">
 
 ## Points and Text on Livemap
 
-<a href="https://nbviewer.jupyter.org/github/HIL-HK/lets-plot-examples/blob/master/features/point_and_text_on_livemap.ipynb" target="_blank"> 
-  <img src="https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.png" width="109" height="20">
+<a href="point_and_text_on_livemap.ipynb" target="_blank"> 
+  <img src="preview/point_and_text_on_livemap.png" alt="Points and Text on Interactive Map" width="400" height="300">
 </a>
-
-<img src="preview/point_and_text_on_livemap.png" alt="Points and Text on Interactive Map" width="400" height="300">
 
 ## Straight Lines
 
-<a href="https://nbviewer.jupyter.org/github/HIL-HK/lets-plot-examples/blob/master/features/straight_lines.ipynb" target="_blank"> 
-  <img src="https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.png" width="109" height="20">
+<a href="straight_lines.ipynb" target="_blank"> 
+  <img src="preview/straight_lines.png" alt="Horizontal and Vertical Lines of Different Style" width="400" height="300">
 </a>
-
-<img src="preview/straight_lines.png" alt="Horizontal and Vertical Lines of Different Style" width="400" height="300">
