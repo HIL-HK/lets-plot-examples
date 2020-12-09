@@ -3,7 +3,7 @@
 Demo notebooks with features that have not been implemented in Lets-Plot yet.
 
 All viewable or executable notebooks are available here:
-[<img alt="nbviewer" src="https://raw.githubusercontent.com/jupyter/design/dev/logos/Badges/nbviewer_badge.png" width="109" height="20">](https://nbviewer.jupyter.org/github/HIL-HK/lets-plot-examples/blob/dev/plans/)
+[![nbviewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.jupyter.org/github/HIL-HK/lets-plot-examples/blob/dev/plans/)
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/HIL-HK/lets-plot-examples/dev?filepath=plans)
 
 ## Animated Bar Chart

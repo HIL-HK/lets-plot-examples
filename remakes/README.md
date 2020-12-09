@@ -3,7 +3,7 @@
 Demo notebooks that remake those from the web which do not use Lets-Plot.
 
 All viewable or executable notebooks are available here:
-[<img alt="nbviewer" src="https://raw.githubusercontent.com/jupyter/design/dev/logos/Badges/nbviewer_badge.png" width="109" height="20">](https://nbviewer.jupyter.org/github/HIL-HK/lets-plot-examples/blob/dev/remakes/)
+[![nbviewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.jupyter.org/github/HIL-HK/lets-plot-examples/blob/dev/remakes/)
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/HIL-HK/lets-plot-examples/dev?filepath=remakes)
 
 ## How Old is This House
