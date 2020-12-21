@@ -17,7 +17,7 @@ dependencies:
   - selenium=3.*
   - squarify=0.*
   - pip:
-    - lets-plot==1.5.4
+    - lets-plot==1.5.5
     - google-cloud-bigquery
     - google-cloud-bigquery-storage
     - sklearn
