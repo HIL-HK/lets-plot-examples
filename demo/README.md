@@ -3,8 +3,8 @@
 The main directory with demo notebooks.
 
 All viewable or executable notebooks are available here:
-[![nbviewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.jupyter.org/github/HIL-HK/lets-plot-examples/blob/dev/demo/)
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/HIL-HK/lets-plot-examples/dev?filepath=demo)
+[![nbviewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.jupyter.org/github/HIL-HK/lets-plot-examples/blob/master/demo/)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/HIL-HK/lets-plot-examples/master?filepath=demo)
 
 ## Lets-Plot in 2020
 
