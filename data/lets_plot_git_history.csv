@@ -56,7 +56,8 @@ ccb778e;2020-12-08T16:46:20+03:00;Ivan Kupriyanov;ikupriyanov@horis.ru;Refactori
 a1d1362;2020-12-11T17:06:10+03:00;Ivan Kupriyanov;ikupriyanov@horis.ru;Update version;1 file changed;1 insertion(+);1 deletion(-)
 bd819d5;2020-12-22T17:21:02+03:00;Ivan Kupriyanov;ikupriyanov@horis.ru;Code cleanup;15 files changed;115 insertions(+);114 deletions(-)
 c47581a;2020-12-28T18:19:55+03:00;Ivan Kupriyanov;ikupriyanov@horis.ru;Code cleanup, better error message for missing parents;3 files changed;41 insertions(+);8 deletions(-)
-1ddd020;2020-12-28T18:43:23+03:00;Ivan Kupriyanov;ikupriyanov@horis.ru;Remove wiki from fields for search - it fixes an issue with counties with names as states (Texas, Iowa, etc), returning county with requested name and also bunch of counties within state because of postal format in wiki field - "County, Texas";3 files changed;11 insertions(+);4 deletions(-)12641eb3;2019-04-05T19:05:01-04:00;Igor Alshannikov;Igor.Alshannikov@jetbrains.com;first commit;1 file changed;1 insertion(+);
+1ddd020;2020-12-28T18:43:23+03:00;Ivan Kupriyanov;ikupriyanov@horis.ru;Remove wiki from fields for search - it fixes an issue with counties with names as states (Texas, Iowa, etc), returning county with requested name and also bunch of counties within state because of postal format in wiki field - "County, Texas";3 files changed;11 insertions(+);4 deletions(-)
+12641eb3;2019-04-05T19:05:01-04:00;Igor Alshannikov;Igor.Alshannikov@jetbrains.com;first commit;1 file changed;1 insertion(+);
 1e398393;2019-04-05T19:10:36-04:00;Igor Alshannikov;Igor.Alshannikov@jetbrains.com;Initial commit;174 files changed;8975 insertions(+);
 61194b90;2019-04-08T17:08:32-04:00;Igor Alshannikov;Igor.Alshannikov@jetbrains.com;make observables comilable;10 files changed;123 insertions(+);96 deletions(-)
 65eea020;2019-04-08T17:29:43-04:00;Igor Alshannikov;Igor.Alshannikov@jetbrains.com;add registration tests;4 files changed;99 insertions(+);1 deletion(-)
