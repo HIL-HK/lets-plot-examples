@@ -1126,7 +1126,6 @@ ec476137;2020-03-22T15:33:31-04:00;Igor Alshannikov;Igor.Alshannikov@jetbrains.c
 bfc3b8d4;2020-03-23T14:07:27-04:00;Igor Alshannikov;Igor.Alshannikov@jetbrains.com;Update RELEASE_RC.md and env;2 files changed;2 insertions(+);1 deletion(-)
 c7652617;2020-03-23T14:31:30-04:00;Igor Alshannikov;Igor.Alshannikov@jetbrains.com;Update classifiers;2 files changed;5 insertions(+);3 deletions(-)
 048141f4;2020-03-23T14:35:20-04:00;Igor Alshannikov;Igor.Alshannikov@jetbrains.com;Remove not needed doc;1 file changed;158 deletions(-)
-11350dc0;2020-03-23T16:35:09-04:00;dependabot[bot];49699333+dependabot[bot]@users.noreply.github.com;Bump acorn from 6.3.0 to 6.4.1 in /js-package (#102);1 file changed;3 insertions(+);3 deletions(-)
 6551e215;2020-03-23T20:16:36-04:00;Igor Alshannikov;Igor.Alshannikov@jetbrains.com;Add export SVG/HTML example notebook;1 file changed;696 insertions(+);
 a76802fe;2020-03-25T10:46:14+03:00;Alla Redko;alla.redko@jetbrains.com;formatting;1 file changed;2 insertions(+);2 deletions(-)
 d02ce6ee;2020-03-25T13:23:14-04:00;Igor Alshannikov;Igor.Alshannikov@jetbrains.com;Update demo notebooks;23 files changed;2033 insertions(+);805 deletions(-)
