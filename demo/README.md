@@ -6,6 +6,12 @@ All viewable or executable notebooks are available here:
 [![nbviewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.jupyter.org/github/HIL-HK/lets-plot-examples/blob/dev/demo/)
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/HIL-HK/lets-plot-examples/dev?filepath=demo)
 
+## Lets-Plot in 2020
+
+<a href="2020.ipynb" target="_blank"> 
+  <img src="preview/2020.png" alt="Lollipop Plot of Commits by Authors" width="400" height="600">
+</a>
+
 ## How To Draw Curve Fast
 
 <a href="contours.ipynb" target="_blank"> 
