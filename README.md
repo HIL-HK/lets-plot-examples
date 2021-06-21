@@ -22,6 +22,6 @@ conda env update --name lets-plot-examples --file binder/environment.yml --prune
 
 ### Examples
 
-Open the terminal, execute `jupyter notebook` or `jupyter lab` and navigate through the directories containing examples.
+Open the terminal, execute `jupyter notebook` and navigate through the directories containing examples.
 
 The main set of demo notebooks is located in the [demo/](demo) and [features/](features) directories. More examples can be found in [plans/](plans) and [remakes/](remakes).
