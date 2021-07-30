@@ -90,6 +90,12 @@ All viewable or executable notebooks are available here:
   <img src="preview/museums.png" alt="Museums Income in Washington, D.C." width="400" height="300">
 </a>
 
+## Nobel Prize Exploratory Data Analysis
+
+<a href="nobel.ipynb" target="_blank"> 
+  <img src="preview/nobel.png" alt="Laureates Who Won Nobel Prize More Than Once" width="400" height="300">
+</a>
+
 ## NYC Subway With BigQuery
 
 <a href="nyc_metro.ipynb" target="_blank"> 
