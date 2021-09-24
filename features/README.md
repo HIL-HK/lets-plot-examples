@@ -6,42 +6,6 @@ All viewable or executable notebooks are available here:
 [![nbviewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.jupyter.org/github/HIL-HK/lets-plot-examples/blob/master/features/)
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/HIL-HK/lets-plot-examples/master?filepath=features)
 
-## Bar
-
-<a href="bar.ipynb" target="_blank"> 
-  <img src="preview/bar.png" alt="Bar" width="400" height="300">
-</a>
-
-## Bar on Livemap
-
-<a href="bar_on_livemap.ipynb" target="_blank">
-  <img src="preview/bar_on_livemap.png" alt="Bar on Livemap" width="400" height="300">
-</a>
-
-## GeoDataFrame on Plot
-
-<a href="geopandas_GeoDataFrame.ipynb" target="_blank"> 
-  <img src="preview/geopandas_GeoDataFrame.png" alt="GeoDataFrame on Plot" width="400" height="300">
-</a>
-
-## Histogram
-
-<a href="histogram.ipynb" target="_blank"> 
-  <img src="preview/histogram.png" alt="Histogram" width="400" height="300">
-</a>
-
-## Line Type and Point Shape
-
-<a href="line_type_and_point_shape.ipynb" target="_blank"> 
-  <img src="preview/line_type_and_point_shape.png" alt="Line Type and Point Shape" width="400" height="300">
-</a>
-
-## geom_line() and geom_path()
-
-<a href="line_vs_path.ipynb" target="_blank"> 
-  <img src="preview/line_vs_path.png" alt="geom_line()" width="400" height="300">
-</a>
-
 ## Points and Text on Livemap
 
 <a href="point_and_text_on_livemap.ipynb" target="_blank"> 

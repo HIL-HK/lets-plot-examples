@@ -17,9 +17,3 @@ All viewable or executable notebooks are available here:
 <a href="nyc_bikes.ipynb" target="_blank"> 
   <img src="preview/nyc_bikes.png" alt="Number of Bikes Available at the Location of NYC" width="400" height="300">
 </a>
-
-## Pushkin as Traveller
-
-<a href="pushkin.ipynb" target="_blank">
-  <img src="preview/pushkin.png" alt="Alexander Pushkin's Trips" width="400" height="300">
-</a>
