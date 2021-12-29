@@ -2,21 +2,20 @@ name: lets-plot-examples
 channels:
   - conda-forge
 dependencies:
-  - python=3.8
-  - colorcet=2.*
-  - geopandas=0.*
-  - jupyter=1.*
-  - networkx=2.*
-  - numpy=1.*
-  - overpy=0.*
-  - pandas=1.*
-  - pillow=8.*
+  - python=3.7
+  - colorcet
+  - geopandas
+  - jupyter
+  - networkx
+  - numpy
+  - overpy
+  - pandas
+  - pillow
   - pip
-  - pyarrow=4.*
-  - selenium=3.*
-  - squarify=0.*
+  - pyarrow
+  - selenium
+  - squarify
   - pip:
-    - lets-plot==2.0.2
     - google-cloud-bigquery
     - google-cloud-bigquery-storage
     - sklearn
