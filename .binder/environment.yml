@@ -1,11 +1,13 @@
 name: lets-plot-examples
 channels:
   - conda-forge
+  - jetbrains
 dependencies:
-  - python=3.7
+  - python=3.8
   - colorcet
   - geopandas
   - jupyter
+  - kotlin-jupyter-kernel
   - networkx
   - numpy
   - overpy
@@ -18,4 +20,5 @@ dependencies:
   - pip:
     - google-cloud-bigquery
     - google-cloud-bigquery-storage
+    - lets-plot
     - sklearn
