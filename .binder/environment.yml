@@ -16,6 +16,7 @@ dependencies:
   - pip
   - pyarrow
   - selenium
+  - shapely
   - squarify
   - pip:
     - google-cloud-bigquery
