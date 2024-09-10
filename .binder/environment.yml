@@ -22,4 +22,4 @@ dependencies:
     - google-cloud-bigquery
     - google-cloud-bigquery-storage
     - lets-plot
-    - sklearn
+    - scikit-learn
