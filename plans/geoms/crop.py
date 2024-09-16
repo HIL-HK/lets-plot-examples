@@ -21,9 +21,9 @@ def get_geom_imshow(geom, image):
     geom = shapely.affinity.scale(geom, 1, -1)
     geom = shapely.affinity.translate(geom, xoff=-origin[0], yoff=-origin[1])
     image_rgba = image.resize((width, height))
-    if (geom.type == 'Polygon'):
+    if (geom.geom_type == 'Polygon'):
         im_mask = get_geom_mask(geom, width, height)
-    elif (geom.type == 'MultiPolygon'):
+    elif (geom.geom_type == 'MultiPolygon'):
         mask_arrays = [np.asarray(get_geom_mask(subgeom, width, height)) for subgeom in geom]
         im_mask = Image.fromarray(np.logical_xor.reduce(mask_arrays))
     else:

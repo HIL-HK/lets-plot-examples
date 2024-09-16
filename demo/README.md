@@ -17,9 +17,3 @@ All viewable or executable notebooks are available here:
 <a href="covid-19_in_China_except_Hubei.ipynb" target="_blank">
   <img src="preview/covid-19_in_China_except_Hubei.png" alt="COVID-19 Statistics in China" width="400" height="400">
 </a>
-
-## NYC Subway With BigQuery
-
-<a href="nyc_metro.ipynb" target="_blank"> 
-  <img src="preview/nyc_metro.png" alt="NYC Subway" width="400" height="300">
-</a>
