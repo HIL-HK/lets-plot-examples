@@ -11,15 +11,3 @@ All viewable or executable notebooks are available here:
 <a href="geom_crop.ipynb" target="_blank">
   <img src="preview/geom_crop.png" alt="Nature in Europe" width="300" height="400">
 </a>
-
-## Treemap
-
-<a href="geom_treemap.ipynb" target="_blank"> 
-  <img src="preview/geom_treemap.png" alt="World Population" width="400" height="400">
-</a>
-
-## Waffle Chart
-
-<a href="geom_waffle.ipynb" target="_blank"> 
-  <img src="preview/geom_waffle.png" alt="Waffle Chart" width="400" height="300">
-</a>

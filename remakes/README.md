@@ -11,9 +11,3 @@ All viewable or executable notebooks are available here:
 <a href="how_old_this_house.ipynb" target="_blank"> 
   <img src="preview/how_old_this_house.png" alt="Manhattan Buildings" width="400" height="300">
 </a>
-
-## Getting started with BigQuery GIS
-
-<a href="nyc_bikes.ipynb" target="_blank"> 
-  <img src="preview/nyc_bikes.png" alt="Number of Bikes Available at the Location of NYC" width="400" height="300">
-</a>
