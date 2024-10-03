@@ -1,4 +1,4 @@
-﻿# Lets-Plot Examples
+# Lets-Plot Examples
 
 ### Environment Set Up
 
@@ -24,4 +24,11 @@ conda env update --name lets-plot-examples --file .binder/environment.yml --prun
 
 Open the terminal, execute `jupyter notebook` and navigate through the directories containing examples.
 
-The main set of demo notebooks is located in the [demo/](demo) and [features/](features) directories. More examples can be found in [plans/](plans) and [remakes/](remakes).
+Directory structure:
+
+- kotlin/ - notebooks with LPK
+  - stable/ - most actual versions of notebooks for testing
+  - *other*/ - notebooks with original in other places, should be updated sometimes
+- python/ - notebooks with LP
+  - stable/ - most actual versions of notebooks for testing
+  - *other*/ - notebooks with original in other places, should be updated sometimes

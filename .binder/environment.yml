@@ -3,7 +3,7 @@ channels:
   - conda-forge
   - jetbrains
 dependencies:
-  - python=3.8
+  - python=3.10
   - colorcet
   - geopandas
   - jupyter
@@ -19,6 +19,13 @@ dependencies:
   - selenium
   - shapely
   - squarify
+  - bs4
+  - cairosvg
+  - fiona
+  - cartopy
+  - rasterio
+  - statsmodels
+  - polars
   - pip:
     - google-cloud-bigquery
     - google-cloud-bigquery-storage
