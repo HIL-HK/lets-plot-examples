@@ -23,3 +23,12 @@ conda env update --name lets-plot-examples --file .binder/environment.yml --prun
 ### Examples
 
 Open the terminal, execute `jupyter notebook` and navigate through the directories containing examples.
+
+Directory structure:
+
+- kotlin/ - notebooks with LPK
+  - stable/ - most actual versions of notebooks for testing
+  - *other*/ - notebooks with original in other places, should be updated sometimes
+- python/ - notebooks with LP
+  - stable/ - most actual versions of notebooks for testing
+  - *other*/ - notebooks with original in other places, should be updated sometimes
