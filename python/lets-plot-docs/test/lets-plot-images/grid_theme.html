@@ -1,12 +1,28 @@
 <html lang="en">
    <head>
        <meta charset="UTF-8">
-       <script type="text/javascript" data-lets-plot-script="library" src="https://cdn.jsdelivr.net/gh/JetBrains/lets-plot@v4.4.1/js-package/distr/lets-plot.min.js"></script>
+       <script type="text/javascript" data-lets-plot-script="library" src="https://cdn.jsdelivr.net/gh/JetBrains/lets-plot@v4.5.1/js-package/distr/lets-plot.min.js"></script>
    </head>
    <body>
-          <div id="rJVu4W"></div>
+          <div id="8wjBih"></div>
    <script type="text/javascript" data-lets-plot-script="plot">
-       var plotSpec={
+   
+   (function() {
+   // ----------
+   
+   var containerDiv = document.getElementById("8wjBih");
+   var observer = new ResizeObserver(function(entries) {
+       for (let entry of entries) {
+           var width = containerDiv.clientWidth
+           if (entry.contentBoxSize && width > 0) {
+           
+               // Render plot
+               if (observer) {
+                   observer.disconnect();
+                   observer = null;
+               }
+
+               var plotSpec={
 "ggsize":{
 "width":700.0,
 "height":400.0
@@ -59,7 +75,8 @@
 "data":{
 }
 }],
-"metainfo_list":[]
+"metainfo_list":[],
+"spec_id":"21"
 },{
 "data":{
 },
@@ -88,7 +105,8 @@
 "x":[5.0,6.0,3.0,8.0,7.0,2.0,1.0,4.0,9.0,0.0]
 }
 }],
-"metainfo_list":[]
+"metainfo_list":[],
+"spec_id":"22"
 },{
 "data":{
 },
@@ -142,7 +160,8 @@
 "y":[NaN,NaN,NaN]
 }
 }],
-"metainfo_list":[]
+"metainfo_list":[],
+"spec_id":"23"
 },{
 "data":{
 "name":["rock","paper","scissors"],
@@ -181,11 +200,36 @@
 "data":{
 }
 }],
-"metainfo_list":[]
+"metainfo_list":[],
+"spec_id":"24"
 }]
 };
-       var plotContainer = document.getElementById("rJVu4W");
-       LetsPlot.buildPlotFromProcessedSpecs(plotSpec, -1, -1, plotContainer);
+       
+               var toolbar = null;
+               var plotContainer = containerDiv;               
+               
+               var options = {
+                   sizing: {
+                       width_mode: "min",
+                       height_mode: "scaled",
+                       width: width
+                   }
+               };
+               var fig = LetsPlot.buildPlotFromProcessedSpecs(plotSpec, -1, -1, plotContainer, options);
+               if (toolbar) {
+                 toolbar.bind(fig);
+               }
+               
+               break;
+           }
+       }
+   });
+   
+   observer.observe(containerDiv);
+   
+   // ----------
+   })();
+   
    </script>
    </body>
 </html>
