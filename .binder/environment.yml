@@ -26,6 +26,7 @@ dependencies:
   - rasterio
   - statsmodels
   - polars
+  - plotnine
   - pip:
     - google-cloud-bigquery
     - google-cloud-bigquery-storage
