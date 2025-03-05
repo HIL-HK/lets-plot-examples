@@ -1,0 +1,25 @@
+,Eruption date,Volcano,Cessation date,VEI,Characteristics,Tsunami,Tephra volume,Fatality
+1,21 December 2018,Anak Krakatoa,10 January 2019,4,"cv,se,pf,fa,lm,cc",1–2 m,N/A,437
+2,13 February 2014,Kelut,15 February 2014,4,"cv,cl,pf,ph,ld,lm",no,0.16 km3,4
+3,3 November 2010,Merapi,8 November 2010,4,"cv,pf,ld,lm",no,N/A,353
+4,10 February 1990,Kelut,March 1990,4,"cv,cl,pf,ph,ld,lm",no,0.13 km3,35
+5,18 July 1983,Colo,December 1983,4,"cv,pf,ph",no,N/A,0
+6,5 April 1982,Galunggung,8 January 1983,4,"cv,pf,lf,lm",no,0.37 km3 +,68
+7,6 October 1972,Merapi,March 1985,2,"cv,pf,lf,ld,lm",no,0.021 km3,29
+8,26 April 1966,Kelut,27 April 1966,4,"cv,cl,pf,lm",no,0.089 km3,212
+9,17 March 1963,Agung,27 January 1964,5,"cv,pf,lf,lm",no,1 km3,"1,148"
+10,31 August 1951,Kelut,31 August 1951,4,"cv,cl,pf,lm",no,0.2 km3,7
+11,25 November 1930,Merapi,September 1931,3,"cv,rf,pf,lf,ld,lm",no,0.0017 km3,"1,369"
+12,19 May 1919,Kelut,20 May 1919,4,"cv,cl,pf,lm",no,0.19 km3,"5,110"
+13,7 June 1892,Awu,12 June 1892,3,"cv,pf,lm",yes,N/A,"1,532"
+14,26 August 1883,Krakatoa,February 1884,6,"cv,se,pf,fa,lm,cc",15–42 m,5–8.5 km3,"36,600"
+15,15 April 1872,Merapi,21 April 1872,4,"cv,pf",no,0.33 km3,200
+16,2 March 1856,Awu,17 March 1856,3,"cv,pf,lm",yes,0.51±0.50 km3,"2,806"
+17,8 October 1822,Galunggung,December 1822,5,"cv,pf,ld,lm",no,1 km3 +,"4,011"
+18,10 April 1815,Mount Tambora,15 July 1815,7,"cv,pf,cc",1–2 m,160 km3,"71,000+"
+19,6 August 1812,Awu,8 August 1812,4,"cv,pf,lm",no,0.55±0.50 km3,963
+20,12 August 1772,Papandayan,12 August 1772,3,"cv,ph",no,N/A,"2,957"
+21,4 August 1672,Merapi,unknown,3,"cv,pf,lm",no,N/A,"3,000"
+22,1586,Kelut,unknown,5,"cf,cl,lm",no,1 km3 +,"10,000"
+23,September 1257,Samalas,unknown,7,,,,
+24,"≈ 74,000 BP",Toba,unknown,8,"pf,lf,cc",likely,"2,800 km3",Possible near extinction of all the human population
