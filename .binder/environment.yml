@@ -4,8 +4,13 @@ channels:
   - jetbrains
 dependencies:
   - python=3.10
+  - bs4
+  - cairosvg
+  - cartopy
   - colorcet
+  - fiona
   - geopandas
+  - gdal=3.5.0
   - jupyter
   - kotlin-jupyter-kernel
   - networkx
@@ -15,21 +20,16 @@ dependencies:
   - pillow
   - pip
   - plotnine
+  - polars
   - pyarrow
   - pyshp
+  - rasterio
   - selenium
   - shapely
   - squarify
-  - bs4
-  - cairosvg
-  - fiona
-  - cartopy
-  - rasterio
   - statsmodels
-  - polars
-  - plotnine
   - pip:
+    - lets-plot
     - google-cloud-bigquery
     - google-cloud-bigquery-storage
-    - lets-plot
     - scikit-learn
