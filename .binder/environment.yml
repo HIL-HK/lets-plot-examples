@@ -17,6 +17,7 @@ dependencies:
   - numpy
   - overpy
   - pandas
+  - pdf2image
   - pillow
   - pip
   - plotnine
@@ -28,6 +29,7 @@ dependencies:
   - shapely
   - squarify
   - statsmodels
+  - wand
   - pip:
     - lets-plot
     - google-cloud-bigquery

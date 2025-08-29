@@ -7,3 +7,4 @@
 python/stable/lets-plot/dev/notebooks/**.svg
 python/stable/lets-plot/dev/notebooks/**.png
 python/stable/lets-plot/dev/notebooks/lets-plot-images/**
+python/stable/tests/lets-plot-images/**
