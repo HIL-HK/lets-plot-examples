@@ -29,7 +29,6 @@ dependencies:
   - shapely
   - squarify
   - statsmodels
-  - wand
   - pip:
     - lets-plot
     - google-cloud-bigquery
